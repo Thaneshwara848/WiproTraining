@@ -1,0 +1,14 @@
+IDE : STS ,Eclipses , VS code , Notepad++ etc....!---> java Code  
+
+Developer 
+Tester 
+Devops 
+Support Eng
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Thaneshwara848/WiproTraining.git
+git push -u origin main
